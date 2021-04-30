@@ -1,0 +1,12 @@
+.home{
+    background: url('../../images/Bg.jpg'), rgba(26, 41, 70, 0.5);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: soft-light;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.vehicle-area{
+    align-items: center;
+    height: 92vh;
+}

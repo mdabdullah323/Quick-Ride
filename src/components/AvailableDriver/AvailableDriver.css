@@ -1,0 +1,11 @@
+.vehicle-image{
+    width: 30px;
+}
+.driver-area{
+    background-color: white;
+    margin-top: 20px;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    border-radius: 7px;
+}

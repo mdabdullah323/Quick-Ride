@@ -1,0 +1,11 @@
+.socal-icon{
+    font-size: 30px;
+}
+.socal-account-area{
+    border: 1px solid grey;
+    text-align: center;
+    padding: 5px;
+    border-radius: 50px;
+    margin: 20px 0;
+    cursor: pointer;
+}

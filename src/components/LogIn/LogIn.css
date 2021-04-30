@@ -1,0 +1,14 @@
+.login-area{
+    margin-top: 50px;
+}
+.flex-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.horizontal-line{
+    width: 20vw;
+    border-top: 2px solid grey;
+    margin: 0 20px;
+}
